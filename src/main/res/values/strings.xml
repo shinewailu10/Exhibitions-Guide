@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Exhibition Guide</string>
+    <string name="logo_description">exhibition logo</string>
+    <string-array name="optionMain">
+        <item>Art Gallery</item>
+        <item>WWI exhibition</item>
+        <item>Exploring the space</item>
+        <item>Visual show</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+
+    </string-array>
+
+</resources>
